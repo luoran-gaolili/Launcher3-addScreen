@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">ናይ መንደቕ ስእሊ ኣዳልው</string>
+<string name="image_load_fail">ምስሊ ምፅዓን ኣይከኣልን</string>
+<string name="wallpaper_load_fail">ምስሊ ከም መንደቕ ወረቐት ምፅዓን ኣይከኣለን</string>
+<plurals name="number_of_items_selected">
+<item quantity="one">%1$d ዝተመረፀ</item>
+<item quantity="other">%1$d ዝተመረፀ</item>
+</plurals>
+<string name="wallpaper_accessibility_name">ወረቐት መንደቕ %1$d ናይ %2$d</string>
+<string name="announce_selection"><xliff:g id="label" example="Wallpaper3of10">%1$s</xliff:g> ዝተመረፁ</string>
+<string name="wallpaper_delete">ኣጥፍእ</string>
+<string name="pick_wallpaper">ናይ መንደቕ ወረቐታት</string>
+<string name="crop_wallpaper">ናይ መንደቕ ወረቐት መጠን ኣስተኻኽል</string>
+<string name="which_wallpaper_option_home_screen">ናይ መጀመርታ ስክሪን</string>
+<string name="which_wallpaper_option_home_screen_and_lock_screen">ናይ መጀመርታ ገፅ ስክሪንን መቖለፊ ስክሪንን</string>
+</resources>
